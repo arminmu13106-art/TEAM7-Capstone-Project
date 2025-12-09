@@ -1,10 +1,10 @@
 Template for the Read the Docs tutorial
 =======================================
 示例：
-linkedin-cv-classifier/          # GitHub仓库根目录
-📄 FINAL_REPORT.pdf          # 必须提交的最终PDF报告
-📄 README.md                 # 项目介绍和快速开始指南
-📄 requirements.txt          # Python依赖包列表
+linkedin-cv-classifier/
+📄 FINAL_REPORT.pdf          
+📄 README.md                 
+📄 requirements.txt 
 
     📂 notebooks/                # Jupyter笔记本（主要工作区）
         📘 1_data_exploration.ipynb
