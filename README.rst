@@ -32,6 +32,7 @@ based on textual information from the profile.
 📘 3_feature_engineering.ipynb
 
 📘 4_rule_based_baseline.ipynb
+
 # The rule-based baseline provides an interpretable reference point and helps assess the added value of more complex models.
 
 📘 5_embedding_approach.ipynb
