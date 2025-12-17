@@ -1,7 +1,21 @@
 README MEMEME MEOW🐱
 =======================================
-示例：
-linkedin-cv-classifier/
+## Project Overview
+
+This project builds an end-to-end pipeline that automatically classifies a LinkedIn profile into:
+1) a professional domain, and
+2) a seniority level,
+based on textual information from the profile.
+
+## Pipeline
+
+1. Data exploration and understanding of LinkedIn profile texts  
+2. Text cleaning and preprocessing  
+3. Feature engineering and representation learning  
+4. Rule-based baseline for interpretability  
+5. Embedding-based models for improved performance  
+6. Model training and evaluation  
+
 
 📄 FINAL_REPORT.pdf          
 
@@ -18,6 +32,7 @@ linkedin-cv-classifier/
 📘 3_feature_engineering.ipynb
 
 📘 4_rule_based_baseline.ipynb
+# The rule-based baseline provides an interpretable reference point and helps assess the added value of more complex models.
 
 📘 5_embedding_approach.ipynb
 
