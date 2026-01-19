@@ -1,12 +1,12 @@
 README MEMEME MEOW🐱
 =======================================
-示例：
+EXAMPLE：
 linkedin-cv-classifier/
 📄 FINAL_REPORT.pdf          
 📄 README.md                 
 📄 requirements.txt 
 
-    📂 notebooks/                # Jupyter笔记本（主要工作区）
+    📂 notebooks/                # Jupyter
         📘 1_data_exploration.ipynb
         📘 2_data_preprocessing.ipynb
         📘 3_feature_engineering.ipynb
@@ -15,7 +15,7 @@ linkedin-cv-classifier/
         📘 6_model_training.ipynb
         📘 7_final_evaluation.ipynb
         
-    📂 src/                      # Python源代码（可重用的函数）
+    📂 src/                      # Python
         📄 __init__.py
         📄 data_loader.py       # 加载数据的功能
         📄 text_cleaner.py      # 清洗文本的功能
